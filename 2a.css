@@ -1,0 +1,17 @@
+   body{
+    margin: center;
+   }
+   .Uber input[type="button"]
+{
+   text-align: center;
+    background-color:rgb(18, 14, 0);
+    border:20rem;
+    color: white;
+    padding: 10px 20px;
+    font-size: 12px;
+    border-radius: 1px;
+}
+.Uber input[type="button"]:hover{
+   background-color: #2b2a2a;
+}
+    
